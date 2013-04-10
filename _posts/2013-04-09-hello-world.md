@@ -6,8 +6,6 @@ month: 4
 may: 9
 ---
 
-## Hello World
-
 Is it works?
 
 It works indeed!

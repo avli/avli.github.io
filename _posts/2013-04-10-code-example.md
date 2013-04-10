@@ -6,8 +6,6 @@ month: 4
 day: 10
 ---
 
-## Code Examples
-
 Let's try to write some code chunks.
 
 Python is the first:
