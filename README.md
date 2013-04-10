@@ -1,4 +1,4 @@
 avli.github.io
 ==============
 
-Blog
+Blog is [here](http://avli.github.io).
