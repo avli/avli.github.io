@@ -1,7 +1,5 @@
 Title: Code Examples
 Date: 2013-04-10
-Tags: misc
-
 
 Let's try to write some code chunks.
 
