@@ -1,4 +1,4 @@
-avli.github.io
-==============
+# avli.github.io
 
-Blog is [here](http://avli.github.io).
+
+The blog is [here](http://avli.github.io).
