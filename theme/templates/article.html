@@ -1,74 +1,22 @@
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
-  <head>
-    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-    <title>Andrey Lisin's blog</title>
-    <meta name="author" content="Andrey Lisin" />
+{% extends "base.html" %}
 
-    <!-- syntax highlighting CSS -->
-    <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/syntax.css" type="text/css" />
+{% block content %}
 
-    <!-- Homepage CSS -->
-    <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/screen.css" type="text/css" media="screen, projection" />
+  <div id="title">
+    <h1>{{ article.title }}</h1>
+    <span class="meta">{{ article.date|strftime('%d %b %Y')}}</span>
+  </div>
 
-  </head>
+  <div id="post">
+    {{ article.content }}
+  </div>
 
-  <body>
+  <div id="tags">
+    Tagged:
+    {% for tag in article.tags %}
+      <a href="/blog/tag/{{tag}}">{{tag}}</a> &nbsp;
+    {% endfor %}
 
-    <!-- ClickTale Top part -->
-    <script type="text/javascript">
-      var WRInitTime=(new Date()).getTime();
-    </script>
-    <!-- ClickTale end of Top part -->
+{% endblock content %}
 
-    <div class="site">
-      <div class="title">
-	<a href="/">Andrey Lisin's blog</a>
-	<a class="extra" href="/">home</a>
-	<p>
-	  <a href="https://twitter.com/minus_void" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @minus_void</a>
-	  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-	</p>
-      </div>
-
-      <div id="title">
-	<h1>{{ article.title }}</h1>
-	<span class="meta">{{ article.date|strftime('%d %b %Y')}}</span>
-      </div>
-
-      <div id="post">
-	{{ article.content }}
-      </div>
-
-      <div id="tags">
-	Tagged:
-	{% for tag in article.tags %}
-	<a href="/blog/tag/{{tag}}">{{tag}}</a> &nbsp;
-	{% endfor %}
-      </div>
-
-      <p></p>
-      <hr />
-
-      <p>
-	<a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
-	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-      </p>
-
-      <div class="footer">
-	<div class="contact">
-	  <p>
-            &copy;&nbsp;2016&nbsp;Andrey Lisin<br />
-            Project manager at <a href="http://crystalnix.com/">Crystalnix Team</a><br />
-	  <p>
-	    Theme and code from <a href="https://github.com/mojombo">Tom
-	      Preston-Werner</a> and <a href="https://github.com/joearms">Joe Armstrong</a>.<br /> Hosted by
-	    <a href="https://github.com/avli/avli.github.io/">GitHub</a>
-	    and powered by <a href="http://blog.getpelican.com/">Pelican</a>.
-	  </p>
-	</div>
-      </div>
-    </div>
-
-  </body>
 </html>

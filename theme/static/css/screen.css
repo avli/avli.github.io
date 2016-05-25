@@ -152,17 +152,7 @@ ul.posts span {
 
 }
 
-.codehilite{
-    width:42em;
-    height: auto;
-    overflow: auto;
-}
-
 /* standard */
-
-#highlight {
-    font-s;
-}
 
 #post pre {
     border: 1px solid #ddd;
@@ -184,11 +174,6 @@ ul.posts span {
 
 #post pre code {
     border: none;
-}
-
-#post pre {
-    border: none;
-    font-size: 85%;
 }
 
 /* terminal */
