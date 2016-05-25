@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <title>Andrey Lisin's blog</title>
+    <meta name="author" content="Andrey Lisin" />
+    <!-- syntax highlighting CSS -->
+    <link rel="stylesheet" href="/theme/css/syntax.css" type="text/css" />
+    <!-- Homepage CSS -->
+    <link rel="stylesheet" href="/theme/css/screen.css" type="text/css" media="screen, projection" />
+  </head>
+  <body>
+    <!-- ClickTale Top part -->
+    <script type="text/javascript">
+      var WRInitTime=(new Date()).getTime();
+    </script>
+    <!-- ClickTale end of Top part -->
+    <div class="site">
+      <div class="title">
+        <a href="/">Andrey Lisin's blog</a>
+        <a class="extra" href="/">home</a>
+        <p>
+          <a href="https://twitter.com/minus_void" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @minus_void</a>
+          <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+        </p>
+      </div>
+      <h1 id="posts">Posts</h1>
+
+
+  <div id="title">
+    <h1>Code Examples</h1>
+    <span class="meta">10 Apr 2013</span>
+  </div>
+
+  <div id="post">
+    <p>Let's try to write some code chunks.</p>
+<p>Python is the first:</p>
+<table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre>1
+2</pre></div></td><td class="code"><div class="highlight"><pre><span></span><span class="k">def</span> <span class="nf">fun</span><span class="p">(</span><span class="n">a</span><span class="p">,</span> <span class="n">b</span><span class="p">):</span>
+    <span class="k">return</span> <span class="n">a</span> <span class="o">+</span> <span class="n">b</span>
+</pre></div>
+</td></tr></table>
+
+<p>Now is the C++ turn:</p>
+<table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre>1
+2
+3
+4
+5
+6
+7
+8</pre></div></td><td class="code"><div class="highlight"><pre><span></span><span class="cp">#include</span> <span class="cpf">&lt;iostream&gt;</span><span class="cp"></span>
+<span class="k">using</span> <span class="k">namespace</span> <span class="n">std</span><span class="p">;</span>
+
+<span class="kt">int</span> <span class="nf">main</span><span class="p">()</span>
+<span class="p">{</span>
+    <span class="n">cout</span> <span class="o">&lt;&lt;</span> <span class="s">&quot;Hello, Pelican!&quot;</span> <span class="o">&lt;&lt;</span> <span class="n">endl</span><span class="p">;</span>
+    <span class="k">return</span> <span class="mi">0</span><span class="p">;</span>
+<span class="p">}</span>
+</pre></div>
+</td></tr></table>
+
+<p>Erlang?</p>
+<table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre>1
+2</pre></div></td><td class="code"><div class="highlight"><pre><span></span><span class="nf">factorial</span><span class="p">(</span><span class="mi">0</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="mi">1</span><span class="p">;</span>
+<span class="nf">factorial</span><span class="p">(</span><span class="nv">N</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="nv">N</span> <span class="o">*</span> <span class="n">factorial</span><span class="p">(</span><span class="nv">N</span><span class="o">-</span><span class="mi">1</span><span class="p">).</span>
+</pre></div>
+</td></tr></table>
+
+<p>Clojure?</p>
+<table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre>1</pre></div></td><td class="code"><div class="highlight"><pre><span></span><span class="p">(</span><span class="kd">defn </span><span class="nv">double-me</span> <span class="p">[</span><span class="nv">x</span><span class="p">]</span> <span class="p">(</span><span class="nb">* </span><span class="mi">2</span> <span class="nv">x</span><span class="p">))</span>
+</pre></div>
+</td></tr></table>
+
+<p>And even Brainfuck?</p>
+<table class="highlighttable"><tr><td class="linenos"><div class="linenodiv"><pre>1
+2
+3</pre></div></td><td class="code"><div class="highlight"><pre><span></span><span class="nb">++++++++++</span><span class="k">[</span><span class="nv">&gt;</span><span class="nb">+++++++</span><span class="nv">&gt;</span><span class="nb">++++++++++</span><span class="nv">&gt;</span><span class="nb">+++</span><span class="nv">&gt;</span><span class="nb">+</span><span class="nv">&lt;&lt;&lt;&lt;</span><span class="nb">-</span><span class="k">]</span><span class="nv">&gt;</span><span class="nb">++</span><span class="c"></span>
+<span class="c"> </span><span class="nt">.</span><span class="nv">&gt;</span><span class="nb">+</span><span class="nt">.</span><span class="nb">+++++++</span><span class="nt">..</span><span class="nb">+++</span><span class="nt">.</span><span class="nv">&gt;</span><span class="nb">++</span><span class="nt">.</span><span class="nv">&lt;&lt;</span><span class="nb">+++++++++++++++</span><span class="nt">.</span><span class="nv">&gt;</span><span class="nt">.</span><span class="nb">+++</span><span class="nt">.</span><span class="c"></span>
+<span class="c"> </span><span class="nb">------</span><span class="nt">.</span><span class="nb">--------</span><span class="nt">.</span><span class="nv">&gt;</span><span class="nb">+</span><span class="nt">.</span><span class="nv">&gt;</span><span class="nt">.</span><span class="c"></span>
+</pre></div>
+</td></tr></table>
+
+<p>Aye! Even Brainfuck!</p>
+<h2>Summing up...</h2>
+<p>...highlighting works very well :)</p>
+  </div>
+
+  <div id="tags">
+    Tagged:
+
+
+      <div class="footer">
+        <div class="contact">
+          <p>
+            &copy;&nbsp;2016&nbsp;Andrey Lisin<br />
+            Project manager at <a href="http://crystalnix.com/">Crystalnix Team</a><br />
+            <p>
+              Theme and code from <a href="https://github.com/mojombo">Tom
+              Preston-Werner</a> and <a href="https://github.com/joearms">Joe Armstrong</a>.<br /> Hosted by
+              <a href="https://github.com/avli/avli.github.io/">GitHub</a>
+              and powered by <a href="http://blog.getpelican.com/">Pelican</a>.
+            </p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
