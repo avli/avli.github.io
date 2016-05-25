@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Andrey Lisin's blog</title><link href="http://avli.github.io/" rel="alternate"></link><link href="http://avli.github.io/feeds/misc.atom.xml" rel="self"></link><id>http://avli.github.io/</id><updated>2013-04-10T00:00:00+07:00</updated><entry><title>Code Examples</title><link href="http://avli.github.io/code-examples.html" rel="alternate"></link><published>2013-04-10T00:00:00+07:00</published><author><name>Andrey Lisin</name></author><id>tag:avli.github.io,2013-04-10:code-examples.html</id><summary type="html">&lt;p&gt;Let's try to write some code chunks.&lt;/p&gt;
+&lt;p&gt;Python is the first:&lt;/p&gt;
+&lt;table class="highlighttable"&gt;&lt;tr&gt;&lt;td class="linenos"&gt;&lt;div class="linenodiv"&gt;&lt;pre&gt;1
+2&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;fun&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;a&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;b&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="o"&gt;+&lt;/span&gt; &lt;span class="n"&gt;b&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+
+&lt;p&gt;Now is the C++ turn:&lt;/p&gt;
+&lt;table class="highlighttable"&gt;&lt;tr&gt;&lt;td class="linenos"&gt;&lt;div class="linenodiv"&gt;&lt;pre&gt;1
+2
+3
+4
+5
+6
+7
+8&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="cp"&gt;#include&lt;/span&gt; &lt;span class="cpf"&gt;&amp;lt;iostream&amp;gt;&lt;/span&gt;&lt;span class="cp"&gt;&lt;/span&gt;
+&lt;span class="k"&gt;using&lt;/span&gt; &lt;span class="k"&gt;namespace&lt;/span&gt; &lt;span class="n"&gt;std&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+
+&lt;span class="kt"&gt;int&lt;/span&gt; &lt;span class="nf"&gt;main&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+&lt;span class="p"&gt;{&lt;/span&gt;
+    &lt;span class="n"&gt;cout&lt;/span&gt; &lt;span class="o"&gt;&amp;lt;&amp;lt;&lt;/span&gt; &lt;span class="s"&gt;&amp;quot;Hello, Pelican!&amp;quot;&lt;/span&gt; &lt;span class="o"&gt;&amp;lt;&amp;lt;&lt;/span&gt; &lt;span class="n"&gt;endl&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+    &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+
+&lt;p&gt;Erlang?&lt;/p&gt;
+&lt;table class="highlighttable"&gt;&lt;tr&gt;&lt;td class="linenos"&gt;&lt;div class="linenodiv"&gt;&lt;pre&gt;1
+2&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="nf"&gt;factorial&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="o"&gt;-&amp;gt;&lt;/span&gt; &lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="nf"&gt;factorial&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nv"&gt;N&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="o"&gt;-&amp;gt;&lt;/span&gt; &lt;span class="nv"&gt;N&lt;/span&gt; &lt;span class="o"&gt;*&lt;/span&gt; &lt;span class="n"&gt;factorial&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nv"&gt;N&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;).&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+
+&lt;p&gt;Clojure?&lt;/p&gt;
+&lt;table class="highlighttable"&gt;&lt;tr&gt;&lt;td class="linenos"&gt;&lt;div class="linenodiv"&gt;&lt;pre&gt;1&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="kd"&gt;defn &lt;/span&gt;&lt;span class="nv"&gt;double-me&lt;/span&gt; &lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="nv"&gt;x&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nb"&gt;* &lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt; &lt;span class="nv"&gt;x&lt;/span&gt;&lt;span class="p"&gt;))&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+
+&lt;p&gt;And even Brainfuck?&lt;/p&gt;
+&lt;table class="highlighttable"&gt;&lt;tr&gt;&lt;td class="linenos"&gt;&lt;div class="linenodiv"&gt;&lt;pre&gt;1
+2
+3&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="nb"&gt;++++++++++&lt;/span&gt;&lt;span class="k"&gt;[&lt;/span&gt;&lt;span class="nv"&gt;&amp;gt;&lt;/span&gt;&lt;span class="nb"&gt;+++++++&lt;/span&gt;&lt;span class="nv"&gt;&amp;gt;&lt;/span&gt;&lt;span class="nb"&gt;++++++++++&lt;/span&gt;&lt;span class="nv"&gt;&amp;gt;&lt;/span&gt;&lt;span class="nb"&gt;+++&lt;/span&gt;&lt;span class="nv"&gt;&amp;gt;&lt;/span&gt;&lt;span class="nb"&gt;+&lt;/span&gt;&lt;span class="nv"&gt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&lt;/span&gt;&lt;span class="nb"&gt;-&lt;/span&gt;&lt;span class="k"&gt;]&lt;/span&gt;&lt;span class="nv"&gt;&amp;gt;&lt;/span&gt;&lt;span class="nb"&gt;++&lt;/span&gt;&lt;span class="c"&gt;&lt;/span&gt;
+&lt;span class="c"&gt; &lt;/span&gt;&lt;span class="nt"&gt;.&lt;/span&gt;&lt;span class="nv"&gt;&amp;gt;&lt;/span&gt;&lt;span class="nb"&gt;+&lt;/span&gt;&lt;span class="nt"&gt;.&lt;/span&gt;&lt;span class="nb"&gt;+++++++&lt;/span&gt;&lt;span class="nt"&gt;..&lt;/span&gt;&lt;span class="nb"&gt;+++&lt;/span&gt;&lt;span class="nt"&gt;.&lt;/span&gt;&lt;span class="nv"&gt;&amp;gt;&lt;/span&gt;&lt;span class="nb"&gt;++&lt;/span&gt;&lt;span class="nt"&gt;.&lt;/span&gt;&lt;span class="nv"&gt;&amp;lt;&amp;lt;&lt;/span&gt;&lt;span class="nb"&gt;+++++++++++++++&lt;/span&gt;&lt;span class="nt"&gt;.&lt;/span&gt;&lt;span class="nv"&gt;&amp;gt;&lt;/span&gt;&lt;span class="nt"&gt;.&lt;/span&gt;&lt;span class="nb"&gt;+++&lt;/span&gt;&lt;span class="nt"&gt;.&lt;/span&gt;&lt;span class="c"&gt;&lt;/span&gt;
+&lt;span class="c"&gt; &lt;/span&gt;&lt;span class="nb"&gt;------&lt;/span&gt;&lt;span class="nt"&gt;.&lt;/span&gt;&lt;span class="nb"&gt;--------&lt;/span&gt;&lt;span class="nt"&gt;.&lt;/span&gt;&lt;span class="nv"&gt;&amp;gt;&lt;/span&gt;&lt;span class="nb"&gt;+&lt;/span&gt;&lt;span class="nt"&gt;.&lt;/span&gt;&lt;span class="nv"&gt;&amp;gt;&lt;/span&gt;&lt;span class="nt"&gt;.&lt;/span&gt;&lt;span class="c"&gt;&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+
+&lt;p&gt;Aye! Even Brainfuck!&lt;/p&gt;
+&lt;h2&gt;Summing up...&lt;/h2&gt;
+&lt;p&gt;...highlighting works very well :)&lt;/p&gt;</summary></entry><entry><title>Hello World</title><link href="http://avli.github.io/hello-world.html" rel="alternate"></link><published>2013-04-09T00:00:00+07:00</published><author><name>Andrey Lisin</name></author><id>tag:avli.github.io,2013-04-09:hello-world.html</id><summary type="html">&lt;p&gt;Does it work?&lt;/p&gt;
+&lt;p&gt;It works indeed!&lt;/p&gt;</summary></entry></feed>
