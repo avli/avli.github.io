@@ -11,11 +11,14 @@
     {{ article.content }}
   </div>
 
-  <div id="tags">
-    Tagged:
-    {% for tag in article.tags %}
-      <a href="/blog/tag/{{tag}}">{{tag}}</a> &nbsp;
-    {% endfor %}
+  {% if article.tags %}
+    <div id="tags">
+      Tagged:
+      {% for tag in article.tags %}
+	<a href="/blog/tag/{{tag}}">{{tag}}</a> &nbsp;
+      {% endfor %}
+    </div>
+  {% endif %}
 
 {% endblock content %}
 
