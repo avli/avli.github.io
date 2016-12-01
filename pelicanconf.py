@@ -35,5 +35,3 @@ DEFAULT_PAGINATION = 10
 #RELATIVE_URLS = True
 
 THEME = 'theme'
-
-DISQUS_SITENAME='anvliblog.disqus.com'
