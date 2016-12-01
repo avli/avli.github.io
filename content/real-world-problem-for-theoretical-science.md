@@ -1,6 +1,5 @@
 Title: What Is the Real World Problem Theoretical Science Aims to Solve?
 Date: 2016-11-25
-Status: draft
 
 Recently, I had a conversation with a colleague which gradually led us to
 the topic of – is there a real world problem theoretical science aims to
