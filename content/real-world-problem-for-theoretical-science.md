@@ -1,4 +1,4 @@
-Title: What Real World Problem Theoretical Science Aims to Solve?
+Title: What Is the Real World Problem Theoretical Science Aims to Solve?
 Date: 2016-11-25
 Status: draft
 
@@ -24,7 +24,7 @@ in more detail.
 ## Hill Climbing
 
 I would like to introduce an example that can be found in many books about
-optimization theory which explains the so called gradient descent or climb
+optimization theory which explains the so called gradient ascent or climb
 method. Imagine you are standing on a hilly landscape. Your goal is to climb
 to the highest hill, but it’s a dark night and all you have is a flashlight,
 so you can’t see further than a few feet in front of you. What would your
