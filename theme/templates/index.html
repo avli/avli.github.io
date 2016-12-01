@@ -1,6 +1,7 @@
 {% extends "base.html" %}
 
 {% block content %}
+  <h1 id="posts">Posts</h1>
   <ul class="posts">
     {% for article in articles_page.object_list %}
       <li><span>{{ article.date|strftime('%d %b %Y') }}</span> &raquo; <a href="{{ SITE_URL }}/{{ article.url }}">{{ article.title }}</a></li>
