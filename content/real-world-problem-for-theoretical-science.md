@@ -16,7 +16,7 @@ colleague, but the topic seemed interesting for me, and I decided to express
 it as a blog post.
 
 Those who have had a mathematical optimization course and have some insights
-into optimization algorithms, probably, have a hunch why I picked up
+into optimization algorithms, probably, have a hunch why I picked
 “exploration and exploitation” as the answer. Anyway, let me explain my idea
 in more detail.
 
@@ -63,7 +63,7 @@ problem that theoretical physics aims to solve can be called exploration (or
 research) and exploitation. Scholars explore the land of physics trying to
 find something that can be useful, whether in the present or in the future –
 points which look promising to start the climbing process from. They also
-draw maps of the visited places, so their successors can reach the frontier
+draw maps of the visited places, so those who come after them can reach the frontier
 easily. I believe, each startup, lab, the whole civilization aims to solve
 the same problem in a certain sense.
 
