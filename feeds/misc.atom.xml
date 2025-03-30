@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Andrey Lisin's Blog</title><link href="http://avli.github.io/" rel="alternate"></link><link href="http://avli.github.io/feeds/misc.atom.xml" rel="self"></link><id>http://avli.github.io/</id><updated>2016-12-20T00:00:00+06:00</updated><entry><title>Why Hiring the Ideal Candidate May Not Be the Best Option</title><link href="http://avli.github.io/why-hiring-the-ideal-candidate-may-not-be-the-best-option.html" rel="alternate"></link><published>2016-12-20T00:00:00+06:00</published><updated>2016-12-20T00:00:00+06:00</updated><author><name>Andrey Lisin</name></author><id>tag:avli.github.io,2016-12-20:why-hiring-the-ideal-candidate-may-not-be-the-best-option.html</id><summary type="html">&lt;p&gt;Hiring is a hard task. If you have tried it at least once, you will probably
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Andrey Lisin's Blog - misc</title><link href="http://avli.github.io/" rel="alternate"></link><link href="http://avli.github.io/feeds/misc.atom.xml" rel="self"></link><id>http://avli.github.io/</id><updated>2016-12-20T00:00:00+06:00</updated><entry><title>Why Hiring the Ideal Candidate May Not Be the Best Option</title><link href="http://avli.github.io/why-hiring-the-ideal-candidate-may-not-be-the-best-option.html" rel="alternate"></link><published>2016-12-20T00:00:00+06:00</published><updated>2016-12-20T00:00:00+06:00</updated><author><name>Andrey Lisin</name></author><id>tag:avli.github.io,2016-12-20:/why-hiring-the-ideal-candidate-may-not-be-the-best-option.html</id><summary type="html">&lt;p&gt;Hiring is a hard task. If you have tried it at least once, you will probably
+agree with me. We write a vacancy description, trying to dump as many skills
+and qualifications there as we can. Looking for a back-end developer? No
+problem! Let’s say the candidate we are …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Hiring is a hard task. If you have tried it at least once, you will probably
 agree with me. We write a vacancy description, trying to dump as many skills
 and qualifications there as we can. Looking for a back-end developer? No
 problem! Let’s say the candidate we are looking for should be proficient with
@@ -9,7 +12,7 @@ functional programming, and how to cook pizza! Needless to say, most likely
 you won’t be able to apply all these skills to the problem you’re aiming to
 solve, but even if you will able to find someone with qualifications that
 perfectly match with your requirements, think again – it may be a trap!&lt;/p&gt;
-&lt;p&gt;&lt;img alt="It's a trap!" src="/images/its-a-trap.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="It's a trap!" src="/images/its-a-trap.jpg"&gt;&lt;/p&gt;
 &lt;p&gt;If you are willing to hire someone, then, most likely, you have a project you
 need some help with. Your assumption is – a person experienced with the
 technologies which are in use in the project will be more likely to help to
@@ -46,7 +49,7 @@ potential? Maybe you can afford to have low performance at the start in favor
 of future opportunities. Mathematically speaking, it’s better to choose
 someone whose performance and expertise grow as an exponential function
 rather than one whose performance is linear.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Pizza Contest Graph" src="/images/pizza-contest.png" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Pizza Contest Graph" src="/images/pizza-contest.png"&gt;&lt;/p&gt;
 &lt;p&gt;The world is a complex and unpredictable thing. Pursuing the illusion of
 control, we often become short-sighted, caring only about today, focused on
 solving a short-term problem, and ignoring what may happen tomorrow. Don’t be
@@ -54,7 +57,10 @@ afraid to leave your comfort zone when hiring team members. Respect your team
 and give them the freedom to create. Acting on this, you can win a jackpot.&lt;/p&gt;
 &lt;p&gt;P.S. The guy who invented the new kind of pizza for you left your company one
 year later and opened his own pizza restaurant across the street. But that’s
-another story.&lt;/p&gt;</summary></entry><entry><title>What Is the Real World Problem Theoretical Science Aims to Solve?</title><link href="http://avli.github.io/what-is-the-real-world-problem-theoretical-science-aims-to-solve.html" rel="alternate"></link><published>2016-11-25T00:00:00+06:00</published><updated>2016-11-25T00:00:00+06:00</updated><author><name>Andrey Lisin</name></author><id>tag:avli.github.io,2016-11-25:what-is-the-real-world-problem-theoretical-science-aims-to-solve.html</id><summary type="html">&lt;p&gt;Recently, I had a conversation with a colleague which gradually led us to
+another story.&lt;/p&gt;</content><category term="misc"></category></entry><entry><title>What Is the Real World Problem Theoretical Science Aims to Solve?</title><link href="http://avli.github.io/what-is-the-real-world-problem-theoretical-science-aims-to-solve.html" rel="alternate"></link><published>2016-11-25T00:00:00+06:00</published><updated>2016-11-25T00:00:00+06:00</updated><author><name>Andrey Lisin</name></author><id>tag:avli.github.io,2016-11-25:/what-is-the-real-world-problem-theoretical-science-aims-to-solve.html</id><summary type="html">&lt;p&gt;Recently, I had a conversation with a colleague which gradually led us to
+the topic of – is there a real world problem theoretical science aims to
+solve? The colleague said that theoretical science doesn’t address any real
+world problem and research (in the general sense) is the only thing …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Recently, I had a conversation with a colleague which gradually led us to
 the topic of – is there a real world problem theoretical science aims to
 solve? The colleague said that theoretical science doesn’t address any real
 world problem and research (in the general sense) is the only thing it’s
@@ -118,55 +124,77 @@ theoretical science supplies us with good starting points and educated
 guesses of the direction we should move from there – in other words serves
 us as a flashlight. The first is achieved with exploration and the second
 with exploitation.&lt;/p&gt;
-&lt;p&gt;Hope you don't get bored with this explanation :)&lt;/p&gt;</summary></entry><entry><title>Code Examples</title><link href="http://avli.github.io/code-examples.html" rel="alternate"></link><published>2013-04-10T00:00:00+07:00</published><updated>2013-04-10T00:00:00+07:00</updated><author><name>Andrey Lisin</name></author><id>tag:avli.github.io,2013-04-10:code-examples.html</id><summary type="html">&lt;p&gt;Let's try to write some code chunks.&lt;/p&gt;
+&lt;p&gt;Hope you don't get bored with this explanation :)&lt;/p&gt;</content><category term="misc"></category></entry><entry><title>Code Examples</title><link href="http://avli.github.io/code-examples.html" rel="alternate"></link><published>2013-04-10T00:00:00+07:00</published><updated>2013-04-10T00:00:00+07:00</updated><author><name>Andrey Lisin</name></author><id>tag:avli.github.io,2013-04-10:/code-examples.html</id><summary type="html">&lt;p&gt;Let's try to write some code chunks.&lt;/p&gt;
 &lt;p&gt;Python is the first:&lt;/p&gt;
-&lt;table class="highlighttable"&gt;&lt;tr&gt;&lt;td class="linenos"&gt;&lt;div class="linenodiv"&gt;&lt;pre&gt;1
-2&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;fun&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;a&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;b&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;table class="highlighttable"&gt;&lt;tr&gt;&lt;td class="linenos"&gt;&lt;div class="linenodiv"&gt;&lt;pre&gt;&lt;span class="normal"&gt;1&lt;/span&gt;
+&lt;span class="normal"&gt;2&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;div&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;fun&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;a&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;b&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
     &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="o"&gt;+&lt;/span&gt; &lt;span class="n"&gt;b&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
 
 &lt;p&gt;Now is the C++ turn:&lt;/p&gt;
-&lt;table class="highlighttable"&gt;&lt;tr&gt;&lt;td class="linenos"&gt;&lt;div class="linenodiv"&gt;&lt;pre&gt;1
-2
-3
-4
-5
-6
-7
-8&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="cp"&gt;#include&lt;/span&gt; &lt;span class="cpf"&gt;&amp;lt;iostream&amp;gt;&lt;/span&gt;&lt;span class="cp"&gt;&lt;/span&gt;
-&lt;span class="k"&gt;using&lt;/span&gt; &lt;span class="k"&gt;namespace&lt;/span&gt; &lt;span class="n"&gt;std&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;table class="highlighttable"&gt;&lt;tr&gt;&lt;td class="linenos"&gt;&lt;div class="linenodiv"&gt;&lt;pre&gt;&lt;span class="normal"&gt;1&lt;/span&gt;
+&lt;span class="normal"&gt;2&lt;/span&gt;
+&lt;span class="normal"&gt;3&lt;/span&gt;
+&lt;span class="normal"&gt;4&lt;/span&gt;
+&lt;span class="normal"&gt;5&lt;/span&gt;
+&lt;span class="normal"&gt;6&lt;/span&gt;
+&lt;span class="normal"&gt;7&lt;/span&gt;
+&lt;span class="normal"&gt;8&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;div&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="cp"&gt;#include&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="cpf"&gt;&amp;lt;iostream&amp;gt;&lt;/span&gt;
+&lt;span class="k"&gt;using&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="k"&gt;namespace&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nn"&gt;std&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
 
-&lt;span class="kt"&gt;int&lt;/span&gt; &lt;span class="nf"&gt;main&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+&lt;span class="kt"&gt;int&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nf"&gt;main&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
 &lt;span class="p"&gt;{&lt;/span&gt;
-    &lt;span class="n"&gt;cout&lt;/span&gt; &lt;span class="o"&gt;&amp;lt;&amp;lt;&lt;/span&gt; &lt;span class="s"&gt;&amp;quot;Hello, Pelican!&amp;quot;&lt;/span&gt; &lt;span class="o"&gt;&amp;lt;&amp;lt;&lt;/span&gt; &lt;span class="n"&gt;endl&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
-    &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="n"&gt;cout&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;&amp;lt;&amp;lt;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s"&gt;&amp;quot;Hello, Pelican!&amp;quot;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;&amp;lt;&amp;lt;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;endl&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="k"&gt;return&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
 &lt;span class="p"&gt;}&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
 
 &lt;p&gt;Erlang?&lt;/p&gt;
-&lt;table class="highlighttable"&gt;&lt;tr&gt;&lt;td class="linenos"&gt;&lt;div class="linenodiv"&gt;&lt;pre&gt;1
-2&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="nf"&gt;factorial&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="o"&gt;-&amp;gt;&lt;/span&gt; &lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
-&lt;span class="nf"&gt;factorial&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nv"&gt;N&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt; &lt;span class="o"&gt;-&amp;gt;&lt;/span&gt; &lt;span class="nv"&gt;N&lt;/span&gt; &lt;span class="o"&gt;*&lt;/span&gt; &lt;span class="n"&gt;factorial&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nv"&gt;N&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;).&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;div class="highlight"&gt;&lt;table class="highlighttable"&gt;&lt;tr&gt;&lt;td class="linenos"&gt;&lt;div class="linenodiv"&gt;&lt;pre&gt;&lt;span class="normal"&gt;1&lt;/span&gt;
+&lt;span class="normal"&gt;2&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;div&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="nf"&gt;factorial …&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;</summary><content type="html">&lt;p&gt;Let's try to write some code chunks.&lt;/p&gt;
+&lt;p&gt;Python is the first:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;table class="highlighttable"&gt;&lt;tr&gt;&lt;td class="linenos"&gt;&lt;div class="linenodiv"&gt;&lt;pre&gt;&lt;span class="normal"&gt;1&lt;/span&gt;
+&lt;span class="normal"&gt;2&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;div&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="k"&gt;def&lt;/span&gt; &lt;span class="nf"&gt;fun&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;a&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;b&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="n"&gt;a&lt;/span&gt; &lt;span class="o"&gt;+&lt;/span&gt; &lt;span class="n"&gt;b&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+
+&lt;p&gt;Now is the C++ turn:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;table class="highlighttable"&gt;&lt;tr&gt;&lt;td class="linenos"&gt;&lt;div class="linenodiv"&gt;&lt;pre&gt;&lt;span class="normal"&gt;1&lt;/span&gt;
+&lt;span class="normal"&gt;2&lt;/span&gt;
+&lt;span class="normal"&gt;3&lt;/span&gt;
+&lt;span class="normal"&gt;4&lt;/span&gt;
+&lt;span class="normal"&gt;5&lt;/span&gt;
+&lt;span class="normal"&gt;6&lt;/span&gt;
+&lt;span class="normal"&gt;7&lt;/span&gt;
+&lt;span class="normal"&gt;8&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;div&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="cp"&gt;#include&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="cpf"&gt;&amp;lt;iostream&amp;gt;&lt;/span&gt;
+&lt;span class="k"&gt;using&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="k"&gt;namespace&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nn"&gt;std&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+
+&lt;span class="kt"&gt;int&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nf"&gt;main&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+&lt;span class="p"&gt;{&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="n"&gt;cout&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;&amp;lt;&amp;lt;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s"&gt;&amp;quot;Hello, Pelican!&amp;quot;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;&amp;lt;&amp;lt;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;endl&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="w"&gt;    &lt;/span&gt;&lt;span class="k"&gt;return&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
+
+&lt;p&gt;Erlang?&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;table class="highlighttable"&gt;&lt;tr&gt;&lt;td class="linenos"&gt;&lt;div class="linenodiv"&gt;&lt;pre&gt;&lt;span class="normal"&gt;1&lt;/span&gt;
+&lt;span class="normal"&gt;2&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;div&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="nf"&gt;factorial&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;-&amp;gt;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
+&lt;span class="nf"&gt;factorial&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nv"&gt;N&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;-&amp;gt;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;N&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;factorial&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nv"&gt;N&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;).&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
 
 &lt;p&gt;Clojure?&lt;/p&gt;
-&lt;table class="highlighttable"&gt;&lt;tr&gt;&lt;td class="linenos"&gt;&lt;div class="linenodiv"&gt;&lt;pre&gt;1&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="kd"&gt;defn &lt;/span&gt;&lt;span class="nv"&gt;double-me&lt;/span&gt; &lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="nv"&gt;x&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nb"&gt;* &lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt; &lt;span class="nv"&gt;x&lt;/span&gt;&lt;span class="p"&gt;))&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;div class="highlight"&gt;&lt;table class="highlighttable"&gt;&lt;tr&gt;&lt;td class="linenos"&gt;&lt;div class="linenodiv"&gt;&lt;pre&gt;&lt;span class="normal"&gt;1&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;div&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="kd"&gt;defn &lt;/span&gt;&lt;span class="nv"&gt;double-me&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;[&lt;/span&gt;&lt;span class="nv"&gt;x&lt;/span&gt;&lt;span class="p"&gt;]&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="nb"&gt;* &lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nv"&gt;x&lt;/span&gt;&lt;span class="p"&gt;))&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
 
 &lt;p&gt;And even Brainfuck?&lt;/p&gt;
-&lt;table class="highlighttable"&gt;&lt;tr&gt;&lt;td class="linenos"&gt;&lt;div class="linenodiv"&gt;&lt;pre&gt;1
-2
-3&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="nb"&gt;++++++++++&lt;/span&gt;&lt;span class="k"&gt;[&lt;/span&gt;&lt;span class="nv"&gt;&amp;gt;&lt;/span&gt;&lt;span class="nb"&gt;+++++++&lt;/span&gt;&lt;span class="nv"&gt;&amp;gt;&lt;/span&gt;&lt;span class="nb"&gt;++++++++++&lt;/span&gt;&lt;span class="nv"&gt;&amp;gt;&lt;/span&gt;&lt;span class="nb"&gt;+++&lt;/span&gt;&lt;span class="nv"&gt;&amp;gt;&lt;/span&gt;&lt;span class="nb"&gt;+&lt;/span&gt;&lt;span class="nv"&gt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&lt;/span&gt;&lt;span class="nb"&gt;-&lt;/span&gt;&lt;span class="k"&gt;]&lt;/span&gt;&lt;span class="nv"&gt;&amp;gt;&lt;/span&gt;&lt;span class="nb"&gt;++&lt;/span&gt;&lt;span class="c"&gt;&lt;/span&gt;
-&lt;span class="c"&gt; &lt;/span&gt;&lt;span class="nt"&gt;.&lt;/span&gt;&lt;span class="nv"&gt;&amp;gt;&lt;/span&gt;&lt;span class="nb"&gt;+&lt;/span&gt;&lt;span class="nt"&gt;.&lt;/span&gt;&lt;span class="nb"&gt;+++++++&lt;/span&gt;&lt;span class="nt"&gt;..&lt;/span&gt;&lt;span class="nb"&gt;+++&lt;/span&gt;&lt;span class="nt"&gt;.&lt;/span&gt;&lt;span class="nv"&gt;&amp;gt;&lt;/span&gt;&lt;span class="nb"&gt;++&lt;/span&gt;&lt;span class="nt"&gt;.&lt;/span&gt;&lt;span class="nv"&gt;&amp;lt;&amp;lt;&lt;/span&gt;&lt;span class="nb"&gt;+++++++++++++++&lt;/span&gt;&lt;span class="nt"&gt;.&lt;/span&gt;&lt;span class="nv"&gt;&amp;gt;&lt;/span&gt;&lt;span class="nt"&gt;.&lt;/span&gt;&lt;span class="nb"&gt;+++&lt;/span&gt;&lt;span class="nt"&gt;.&lt;/span&gt;&lt;span class="c"&gt;&lt;/span&gt;
-&lt;span class="c"&gt; &lt;/span&gt;&lt;span class="nb"&gt;------&lt;/span&gt;&lt;span class="nt"&gt;.&lt;/span&gt;&lt;span class="nb"&gt;--------&lt;/span&gt;&lt;span class="nt"&gt;.&lt;/span&gt;&lt;span class="nv"&gt;&amp;gt;&lt;/span&gt;&lt;span class="nb"&gt;+&lt;/span&gt;&lt;span class="nt"&gt;.&lt;/span&gt;&lt;span class="nv"&gt;&amp;gt;&lt;/span&gt;&lt;span class="nt"&gt;.&lt;/span&gt;&lt;span class="c"&gt;&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;
-&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;div class="highlight"&gt;&lt;table class="highlighttable"&gt;&lt;tr&gt;&lt;td class="linenos"&gt;&lt;div class="linenodiv"&gt;&lt;pre&gt;&lt;span class="normal"&gt;1&lt;/span&gt;
+&lt;span class="normal"&gt;2&lt;/span&gt;
+&lt;span class="normal"&gt;3&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;td class="code"&gt;&lt;div&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="nb"&gt;++++++++++&lt;/span&gt;&lt;span class="k"&gt;[&lt;/span&gt;&lt;span class="nv"&gt;&amp;gt;&lt;/span&gt;&lt;span class="nb"&gt;+++++++&lt;/span&gt;&lt;span class="nv"&gt;&amp;gt;&lt;/span&gt;&lt;span class="nb"&gt;++++++++++&lt;/span&gt;&lt;span class="nv"&gt;&amp;gt;&lt;/span&gt;&lt;span class="nb"&gt;+++&lt;/span&gt;&lt;span class="nv"&gt;&amp;gt;&lt;/span&gt;&lt;span class="nb"&gt;+&lt;/span&gt;&lt;span class="nv"&gt;&amp;lt;&amp;lt;&amp;lt;&amp;lt;&lt;/span&gt;&lt;span class="nb"&gt;-&lt;/span&gt;&lt;span class="k"&gt;]&lt;/span&gt;&lt;span class="nv"&gt;&amp;gt;&lt;/span&gt;&lt;span class="nb"&gt;++&lt;/span&gt;
+&lt;span class="c"&gt; &lt;/span&gt;&lt;span class="nt"&gt;.&lt;/span&gt;&lt;span class="nv"&gt;&amp;gt;&lt;/span&gt;&lt;span class="nb"&gt;+&lt;/span&gt;&lt;span class="nt"&gt;.&lt;/span&gt;&lt;span class="nb"&gt;+++++++&lt;/span&gt;&lt;span class="nt"&gt;..&lt;/span&gt;&lt;span class="nb"&gt;+++&lt;/span&gt;&lt;span class="nt"&gt;.&lt;/span&gt;&lt;span class="nv"&gt;&amp;gt;&lt;/span&gt;&lt;span class="nb"&gt;++&lt;/span&gt;&lt;span class="nt"&gt;.&lt;/span&gt;&lt;span class="nv"&gt;&amp;lt;&amp;lt;&lt;/span&gt;&lt;span class="nb"&gt;+++++++++++++++&lt;/span&gt;&lt;span class="nt"&gt;.&lt;/span&gt;&lt;span class="nv"&gt;&amp;gt;&lt;/span&gt;&lt;span class="nt"&gt;.&lt;/span&gt;&lt;span class="nb"&gt;+++&lt;/span&gt;&lt;span class="nt"&gt;.&lt;/span&gt;
+&lt;span class="c"&gt; &lt;/span&gt;&lt;span class="nb"&gt;------&lt;/span&gt;&lt;span class="nt"&gt;.&lt;/span&gt;&lt;span class="nb"&gt;--------&lt;/span&gt;&lt;span class="nt"&gt;.&lt;/span&gt;&lt;span class="nv"&gt;&amp;gt;&lt;/span&gt;&lt;span class="nb"&gt;+&lt;/span&gt;&lt;span class="nt"&gt;.&lt;/span&gt;&lt;span class="nv"&gt;&amp;gt;&lt;/span&gt;&lt;span class="nt"&gt;.&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/div&gt;
 
 &lt;p&gt;Aye! Even Brainfuck!&lt;/p&gt;
 &lt;h2&gt;Summing up...&lt;/h2&gt;
-&lt;p&gt;...highlighting works very well :)&lt;/p&gt;</summary></entry><entry><title>Hello World</title><link href="http://avli.github.io/hello-world.html" rel="alternate"></link><published>2013-04-09T00:00:00+07:00</published><updated>2013-04-09T00:00:00+07:00</updated><author><name>Andrey Lisin</name></author><id>tag:avli.github.io,2013-04-09:hello-world.html</id><summary type="html">&lt;p&gt;Does it work?&lt;/p&gt;
-&lt;p&gt;It works indeed!&lt;/p&gt;</summary></entry></feed>
+&lt;p&gt;...highlighting works very well :)&lt;/p&gt;</content><category term="misc"></category></entry><entry><title>Hello World</title><link href="http://avli.github.io/hello-world.html" rel="alternate"></link><published>2013-04-09T00:00:00+07:00</published><updated>2013-04-09T00:00:00+07:00</updated><author><name>Andrey Lisin</name></author><id>tag:avli.github.io,2013-04-09:/hello-world.html</id><content type="html">&lt;p&gt;Does it work?&lt;/p&gt;
+&lt;p&gt;It works indeed!&lt;/p&gt;</content><category term="misc"></category></entry></feed>
